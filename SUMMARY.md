@@ -5,5 +5,5 @@
 
 ## Questions & Answers
 
-* [What is T\_PAAMAYIM\_NEKUDOTAYIM ?](questions-and-answers/wat.md)
+* [What is T\_PAAMAYIM\_NEKUDOTAYIM ?](questions-and-answers/what-is-t-paamayim-nekudotayim.md)
 
