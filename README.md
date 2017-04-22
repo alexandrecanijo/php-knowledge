@@ -1,4 +1,12 @@
-**PHP Knowledge - Exercises, Questions and Answers**
+# ![](/assets/php-big.jpg) **Knowledge**
 
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+## **Exercises, Questions and Answers**
+
+---
+
+This book serves as a placeholder for exercises, questions, snippets, and challenges found on the internet, that might be useful for daily work and interviews.
+
+
+
+[What is PHP?](/first-question.md)
 
