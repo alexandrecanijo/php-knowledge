@@ -10,6 +10,8 @@ This is a guide that serves as a placeholder for exercises, questions and answer
 
 It's main objective is to help developers to know PHP, on their daily work and also for interviews.
 
+**Note**: A symbol `>` indicates a question that still needs an answer or is in the process of being written.
+
 The guide is divided in several sections:
 
 Part I: The basics of PHP

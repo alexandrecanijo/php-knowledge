@@ -1,4 +1,4 @@
-# What is`T_PAAMAYIM_NEKUDOTAYIM`?
+### What is`T_PAAMAYIM_NEKUDOTAYIM`?
 
 Its the scope resolution operator \(double colon :: \).
 
