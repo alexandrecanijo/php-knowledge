@@ -11,10 +11,5 @@
             }
             ]
         }
-    },
-    "theme-default": {
-        "styles": {
-            "website": "gitbook.css"
-        }
     }
 }
