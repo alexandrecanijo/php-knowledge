@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Index](SUMMARY.md)
 * [What is PHP?](what-is-php.md)
 
 ## Questions & Answers
