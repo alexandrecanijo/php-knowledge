@@ -13,16 +13,26 @@ There are several ways to approach this challenge.
 The one that I like the most, since it's more readable is this:
 
 ```php
-for( $i = 1; $i <= 100; $i ++ )
-{
-    $output = '';
+/**
+ * Get the FizzBuzz result
+ * @param integer $n - total number requested
+ * @return  string - the fizzbuzz result
+ */
+function fizzOrBuz( $n ) {
+    $fizzbuzz = '';
 
-    if ( $i % 3 == 0 ) $output = 'Fizz';
-    if ( $i % 5 == 0 ) $output .= 'Buzz';
+    for( $i = 1; $i <= $n; $i ++ ) {
+        $output = '';
 
-    echo ( empty( $output ) ) ? $i : $output;
-    echo '<br />\n';
+        if ( $i % 3 == 0 ) $output = 'Fizz';
+        if ( $i % 5 == 0 ) $output .= 'Buzz';
+
+        $fizzbuzz .= (( empty( $output ) ) ? $i : $output ) . '<br />';
+    }
+    return $fizzbuzz;
 }
+
+echo fizzOrBuz(100);
 ```
 
 **Working example**
