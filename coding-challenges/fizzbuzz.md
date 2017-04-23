@@ -25,8 +25,8 @@ for( $i = 1; $i <= 100; $i ++ )
 }
 ```
 
+**Working example**
 
-<iframe width="560" height="315" src="https://php-knowledge-alexandrecanijo.codeanyapp.com/challenges/fizzbuzz.php" frameborder="0" allowfullscreen></iframe>
-
+http://alexandrecanijo.com/challenges/fizzbuzz.php
 
 
