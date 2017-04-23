@@ -1,4 +1,7 @@
 .book-summary ul.summary li a:hover {
-  color: #008cff;
-  text-decoration: none;
+     background-color: #4F5B93;
+     color: #fff;
+     text-decoration: none;
+     white-space: nowrap;
+     line-height: 20px;
 }
