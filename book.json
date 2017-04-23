@@ -1,4 +1,5 @@
 {
+    "title": "PHP Knowledge",
     "plugins": [ "theme-api" ],
     "pluginsConfig": {
         "theme-api": {
@@ -9,6 +10,11 @@
                 "default": true
             }
             ]
+        }
+    },
+    "theme-default": {
+        "styles": {
+            "website": "gitbook.css"
         }
     }
 }
