@@ -12,4 +12,5 @@
 ## Coding Challenges
 
 * [FizzBuzz](coding-challenges/fizzbuzz.md)
+* [Fibonacci](coding-challenges/fibonacci.md)
 
